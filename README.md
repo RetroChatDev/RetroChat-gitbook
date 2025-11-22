@@ -1,2 +1,2 @@
 # RetroChat-gitbook
-RetroChat - A social platform, where Web2 &amp; Web3 collide
+RetroChat - A social platform, where Web2 & Web3 collide
