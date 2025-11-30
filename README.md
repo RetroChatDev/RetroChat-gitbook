@@ -1,28 +1,3 @@
----
-cover: .gitbook/assets/IMG_9913.jpeg
-coverY: 0
-layout:
-  width: wide
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/FouA8T1AQLSwKeivEdk3/
----
-
 # Welcome to RetroChat
 
 ### Welcome to RetroChat 🎮✨
