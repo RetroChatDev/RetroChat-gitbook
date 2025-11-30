@@ -1,13 +1,9 @@
 ---
-cover: .gitbook/assets/IMG_9913.jpeg
-coverY: 0
+icon: hand-wave
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,84 +14,17 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks: {}
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Untitled
+# Welcome
 
-### Welcome to RetroChat 🎮✨
+Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-RetroChat - Where Web2 and Web3 Collide!
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-### What is RetroChat?
+### Jump right in
 
-RetroChat is a revolutionary social platform that combines:
-
-* 💬 **Real-time Chat** - Public rooms and private messaging
-* 🕹️ **Retro Arcade** - Classic games with modern Web3 integration (COMING SOON)
-* 📻 **Radio Streaming** - Curated music and Streaming
-* 💰 **Solana Integration** - Tipping, airdrops, and token rewards
-* 🎨 **Retro Aesthetic** - Nostalgic 90s design meets modern UX
-
-### Key Features
-
-```
-  Chat & Community
-  Join public rooms or chat privately with friends
-
-  Arcade Games
-  Play classic games with your community
-
-  Web3 Tipping
-  Send SOL, USDC, or USDT tips instantly
-
-  Airdrops
-  Receive token rewards and airdrops
-```
-
-### Quick Links
-
-```
-  🚀 Get Started
-  Create your account and join the community
-
-  💎 Tokenomics
-  Learn about $RETRO token economics
-
-  🗺️ Roadmap
-  See what's coming next
-
-  ❓ FAQ
-  Common questions answered
-```
-
-### Technology Stack
-
-RetroChat is built with modern Web3 technologies:
-
-* ⚛️ **React + TypeScript** - Modern, type-safe frontend
-* 🎨 **Tailwind CSS** - Beautiful, responsive design
-* ⚡ **Supabase** - Real-time database and authentication
-* 🔗 **Solana** - Fast, low-cost blockchain integration
-* 🎮 **WebAssembly** - High-performance game emulation
-
-### Community
-
-Join  users in the RetroChat community NOW:
-
-* 🌐 **Website**: [RetroChat.io](https://retrochat.io/about)
-* 🐦 **Twitter**: [@RetroChatDev](https://x.com/RetroChatDev)
-* 📱 **Telegram**: [t.me/joinretrochat](https://t.me/joinretrochat)
-
-***
-
-```
-  📖 Documentation Version
-  v1.0.0 - December 2025
-
-  📅 Last Updated
-  November 30th, 2025
-```
-
-```
-```
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
