@@ -58,19 +58,15 @@ RetroChat is a revolutionary social platform that combines:
 ```
   🚀 Get Started
   Create your account and join the community
-  quick-start.md
 
   💎 Tokenomics
   Learn about $RETRO token economics
-  overview.md
 
   🗺️ Roadmap
   See what's coming next
-  vision.md
 
   ❓ FAQ
   Common questions answered
-  faq.md
 ```
 
 ### Technology Stack
@@ -85,12 +81,11 @@ RetroChat is built with modern Web3 technologies:
 
 ### Community
 
-Join thousands of users in the RetroChat community:
+Join  users in the RetroChat community NOW:
 
-* 🌐 **Website**: [retrochat.io](https://retrochat.io)
-* 🐦 **Twitter**: [@retrochat\_io](https://twitter.com/retrochat_io)
-* 💬 **Discord**: [discord.gg/retrochat](https://discord.gg/retrochat)
-* 📱 **Telegram**: [t.me/retrochat](https://t.me/retrochat)
+* 🌐 **Website**: [RetroChat.io](https://retrochat.io/about)
+* 🐦 **Twitter**: [@RetroChatDev](https://x.com/RetroChatDev)
+* 📱 **Telegram**: [t.me/joinretrochat](https://t.me/joinretrochat)
 
 ***
 
