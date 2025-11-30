@@ -1,82 +1,106 @@
 ---
 cover: .gitbook/assets/IMG_9913.jpeg
 coverY: 0
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+metaLinks: {}
 ---
 
-## Welcome to RetroChat 🎮✨
+# Untitled
+
+### Welcome to RetroChat 🎮✨
 
 RetroChat - Where Web2 and Web3 Collide!
 
-## What is RetroChat?
+### What is RetroChat?
 
 RetroChat is a revolutionary social platform that combines:
-- 💬 **Real-time Chat** - Public rooms and private messaging
-- 🕹️ **Retro Arcade** - Classic games with modern Web3 integration (COMING SOON)
-- 📻 **Radio Streaming** - Curated music and Streaming
-- 💰 **Solana Integration** - Tipping, airdrops, and token rewards
-- 🎨 **Retro Aesthetic** - Nostalgic 90s design meets modern UX
 
-## Key Features
+* 💬 **Real-time Chat** - Public rooms and private messaging
+* 🕹️ **Retro Arcade** - Classic games with modern Web3 integration (COMING SOON)
+* 📻 **Radio Streaming** - Curated music and Streaming
+* 💰 **Solana Integration** - Tipping, airdrops, and token rewards
+* 🎨 **Retro Aesthetic** - Nostalgic 90s design meets modern UX
 
-      Chat & Community
-      Join public rooms or chat privately with friends
+### Key Features
 
-      Arcade Games
-      Play classic games with your community
+```
+  Chat & Community
+  Join public rooms or chat privately with friends
 
-      Web3 Tipping
-      Send SOL, USDC, or USDT tips instantly
+  Arcade Games
+  Play classic games with your community
 
-      Airdrops
-      Receive token rewards and airdrops
+  Web3 Tipping
+  Send SOL, USDC, or USDT tips instantly
 
-## Quick Links
+  Airdrops
+  Receive token rewards and airdrops
+```
 
-      🚀 Get Started
-      Create your account and join the community
-      quick-start.md
+### Quick Links
 
-      💎 Tokenomics
-      Learn about $RETRO token economics
-      overview.md
+```
+  🚀 Get Started
+  Create your account and join the community
+  quick-start.md
 
-      🗺️ Roadmap
-      See what's coming next
-      vision.md
+  💎 Tokenomics
+  Learn about $RETRO token economics
+  overview.md
 
-      ❓ FAQ
-      Common questions answered
-      faq.md
+  🗺️ Roadmap
+  See what's coming next
+  vision.md
 
-## Technology Stack
+  ❓ FAQ
+  Common questions answered
+  faq.md
+```
+
+### Technology Stack
 
 RetroChat is built with modern Web3 technologies:
 
-- ⚛️ **React + TypeScript** - Modern, type-safe frontend
-- 🎨 **Tailwind CSS** - Beautiful, responsive design
-- ⚡ **Supabase** - Real-time database and authentication
-- 🔗 **Solana** - Fast, low-cost blockchain integration
-- 🎮 **WebAssembly** - High-performance game emulation
+* ⚛️ **React + TypeScript** - Modern, type-safe frontend
+* 🎨 **Tailwind CSS** - Beautiful, responsive design
+* ⚡ **Supabase** - Real-time database and authentication
+* 🔗 **Solana** - Fast, low-cost blockchain integration
+* 🎮 **WebAssembly** - High-performance game emulation
 
-## Community
+### Community
 
 Join thousands of users in the RetroChat community:
 
-- 🌐 **Website**: [retrochat.io](https://retrochat.io)
-- 🐦 **Twitter**: [@retrochat_io](https://twitter.com/retrochat_io)
-- 💬 **Discord**: [discord.gg/retrochat](https://discord.gg/retrochat)
-- 📱 **Telegram**: [t.me/retrochat](https://t.me/retrochat)
+* 🌐 **Website**: [retrochat.io](https://retrochat.io)
+* 🐦 **Twitter**: [@retrochat\_io](https://twitter.com/retrochat_io)
+* 💬 **Discord**: [discord.gg/retrochat](https://discord.gg/retrochat)
+* 📱 **Telegram**: [t.me/retrochat](https://t.me/retrochat)
 
----
-
-      📖 Documentation Version
-      v1.0.0 - December 2025
-
-      📅 Last Updated
-      November 30th, 2025
+***
 
 ```
+  📖 Documentation Version
+  v1.0.0 - December 2025
 
+  📅 Last Updated
+  November 30th, 2025
+```
+
+```
+```
