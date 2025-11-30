@@ -1,3 +1,6 @@
+![282704F3-85F4-4201-88AC-6225C7AF5B57](https://github.com/user-attachments/assets/e507b3f2-9d14-41e7-9e67-10255e232195)
+
+
 # Welcome to RetroChat
 
 ### Welcome to RetroChat 🎮✨
