@@ -6,7 +6,7 @@ metaLinks:
     - https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/
 ---
 
-# Welcome to RetroChat 🎮✨
+## Welcome to RetroChat 🎮✨
 
 RetroChat - Where Web2 and Web3 Collide!
 
