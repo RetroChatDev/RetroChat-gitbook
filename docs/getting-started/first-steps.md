@@ -5,13 +5,12 @@ Welcome to RetroChat! Here's what to do after creating your account.
 ## Complete Your Profile
 
 1. **Upload an Avatar**: Click on your profile picture to upload a custom avatar
-2. **Add a Banner**: Customize your profile with a banner image
-3. **Write a Bio**: Tell the community about yourself
-4. **Set Your Status**: Choose from available status options
+2. **Write a Bio**: Tell the community about yourself
+3. **Set Your Status**: GET CREATIVE!
 
 ## Join Your First Room
 
-1. Browse the available public rooms
+1. Browse the available public rooms or Create your own!
 2. Click on a room that interests you
 3. Start chatting with the community!
 
@@ -29,7 +28,7 @@ Welcome to RetroChat! Here's what to do after creating your account.
 - Test file attachments
 - Use emoticons in your messages
 
-### Games
+### Games (🚀 COMING SOON 🚀 )
 - Visit the Arcade section
 - Try out available games
 - Compete with other users
@@ -44,7 +43,7 @@ Welcome to RetroChat! Here's what to do after creating your account.
 To unlock Web3 features:
 
 1. Go to Settings → Wallet
-2. Connect your Phantom or Solflare wallet
+2. Connect your Phantom wallet
 3. Start exploring tipping and airdrops
 
 ## Follow Other Users
