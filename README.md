@@ -1,81 +1,102 @@
-![282704F3-85F4-4201-88AC-6225C7AF5B57](https://github.com/user-attachments/assets/e507b3f2-9d14-41e7-9e67-10255e232195)
-
-
 # Welcome to RetroChat
 
-### Welcome to RetroChat 🎮✨
+Welcome to the RetroChat documentation! This comprehensive guide will help you understand and use all the features of RetroChat.
 
-RetroChat - Where Web2 and Web3 Collide!
+## Table of Contents
 
-### What is RetroChat?
+### Getting Started
+- [What is RetroChat?](./getting-started/what-is-retrochat.md)
+- [Quick Start Guide](./getting-started/quick-start-guide.md)
+- [Create Your Account](./getting-started/create-your-account.md)
+- [First Steps](./getting-started/first-steps.md)
 
-RetroChat is a revolutionary social platform that combines:
+### Features
+- [Overview](./features/overview.md)
+- [Chat & Messaging](./features/chat-messaging.md)
+  - Public Rooms
+  - Direct Messages
+  - File Attachments
+  - Emoticons
+- [Arcade Games](./features/arcade-games.md)
+  - Available Games
+  - How to Play
+- [Radio Streaming](./features/radio-streaming.md)
+  - Browse Stations
+  - Create Playlists
+- [User Profiles](./features/user-profiles.md)
+  - Customization
+  - Follow System
 
-* 💬 **Real-time Chat** - Public rooms and private messaging
-* 🕹️ **Retro Arcade** - Classic games with modern Web3 integration (COMING SOON)
-* 📻 **Radio Streaming** - Curated music and Streaming
-* 💰 **Solana Integration** - Tipping, airdrops, and token rewards
-* 🎨 **Retro Aesthetic** - Nostalgic 90s design meets modern UX
+### Web3 Integration
+- [Overview](./web3-integration/overview.md)
+- [Solana Wallet Setup](./web3-integration/solana-wallet-setup.md)
+  - Connect Phantom
+  - Connect Solflare
+- [Tipping System](./web3-integration/tipping-system.md)
+  - How to Send Tips
+  - Supported Tokens
+- [Airdrops](./web3-integration/airdrops.md)
+  - Receiving Airdrops
+  - Airdrop History
+- [Token Integration](./web3-integration/token-integration.md)
 
-### Key Features
+### Tokenomics
+- [Overview](./tokenomics/overview.md)
+- [Token Distribution](./tokenomics/token-distribution.md)
+- [Token Utility](./tokenomics/token-utility.md)
+- [Economics Model](./tokenomics/economics-model.md)
+- [Staking (Coming Soon)](./tokenomics/staking.md)
 
-```
-  Chat & Community
-  Join public rooms or chat privately with friends
+### Roadmap
+- [Vision](./roadmap/vision.md)
+- [Q1 2026](./roadmap/q1-2026.md)
+- [Q2 2026](./roadmap/q2-2026.md)
+- [Future Plans](./roadmap/future-plans.md)
 
-  Arcade Games
-  Play classic games with your community
+### User Guides
+- [Account Management](./user-guides/account-management.md)
+  - Profile Settings
+  - Privacy & Security
+  - Password Reset
+- [Room Creation & Management](./user-guides/room-creation-management.md)
+  - Create a Room
+  - Room Settings
+  - Invite Users
+- [Notifications](./user-guides/notifications.md)
+- [Referral System](./user-guides/referral-system.md)
+- [Bug Reports](./user-guides/bug-reports.md)
+- [Feature Requests](./user-guides/feature-requests.md)
 
-  Web3 Tipping
-  Send SOL, USDC, or USDT tips instantly
+### Admin & Moderation
+- [Admin Overview](./admin-moderation/admin-overview.md)
+- [User Management](./admin-moderation/user-management.md)
+- [Room Moderation](./admin-moderation/room-moderation.md)
+- [Airdrop Management](./admin-moderation/airdrop-management.md)
+  - Creating Airdrops
+  - Selecting Recipients
+  - Execution & Tracking
+- [Analytics Dashboard](./admin-moderation/analytics-dashboard.md)
+- [Maintenance Mode](./admin-moderation/maintenance-mode.md)
 
-  Airdrops
-  Receive token rewards and airdrops
-```
-
-### Quick Links
-
-```
-  🚀 Get Started
-  Create your account and join the community
-
-  💎 Tokenomics
-  Learn about $RETRO token economics
-
-  🗺️ Roadmap
-  See what's coming next
-
-  ❓ FAQ
-  Common questions answered
-```
-
-### Technology Stack
-
-RetroChat is built with modern Web3 technologies:
-
-* ⚛️ **React + TypeScript** - Modern, type-safe frontend
-* 🎨 **Tailwind CSS** - Beautiful, responsive design
-* ⚡ **Supabase** - Real-time database and authentication
-* 🔗 **Solana** - Fast, low-cost blockchain integration
-* 🎮 **WebAssembly** - High-performance game emulation
+### API Reference
+- [Introduction](./api-reference/introduction.md)
+- [Authentication](./api-reference/authentication.md)
+- [REST Endpoints](./api-reference/rest-endpoints.md)
+- [Realtime Subscriptions](./api-reference/realtime-subscriptions.md)
+- [Edge Functions](./api-reference/edge-functions.md)
 
 ### Community
+- [Code of Conduct](./community/code-of-conduct.md)
+- [Contributing](./community/contributing.md)
+- [Community Guidelines](./community/community-guidelines.md)
+- [Support](./community/support.md)
+- [FAQ](./community/faq.md)
 
-Join  users in the RetroChat community NOW:
+### Resources
+- [Changelog](./resources/changelog.md)
+- [Security](./resources/security.md)
+- [Privacy Policy](./resources/privacy-policy.md)
+- [Terms of Service](./resources/terms-of-service.md)
+- [Press Kit](./resources/press-kit.md)
+- [Brand Guidelines](./resources/brand-guidelines.md)
 
-* 🌐 **Website**: [RetroChat.io](https://retrochat.io/about)
-* 🐦 **Twitter**: [@RetroChatDev](https://x.com/RetroChatDev)
-* 📱 **Telegram**: [t.me/joinretrochat](https://t.me/joinretrochat)
-
-***
-
-```
-  📖 Documentation Version
-  v1.0.0 - December 2025
-
-  📅 Last Updated
-  November 30th, 2025
-```
-
-```
-```
