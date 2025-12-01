@@ -22,6 +22,7 @@ RetroChat is a revolutionary social platform that combines:
 ```
   Chat & Community
   Join public rooms or chat privately with friends
+docs/README.md
 
   Arcade Games
   Play classic games with your community
