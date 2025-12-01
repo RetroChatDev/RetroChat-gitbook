@@ -22,7 +22,6 @@ RetroChat is a revolutionary social platform that combines:
 ```
   Chat & Community
   Join public rooms or chat privately with friends
-docs/README.md
 
   Arcade Games
   Play classic games with your community
@@ -39,6 +38,7 @@ docs/README.md
 ```
   🚀 Get Started
   Create your account and join the community
+[Quick Start Guide](docs/getting-started/quick-start-guide.md)
 
   💎 Tokenomics
   Learn about $RETRO token economics
