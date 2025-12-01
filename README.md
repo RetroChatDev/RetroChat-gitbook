@@ -38,7 +38,6 @@ RetroChat is a revolutionary social platform that combines:
 ```
   🚀 Get Started
   Create your account and join the community
-[Quick Start Guide](docs/getting-started/quick-start-guide.md)
 
   💎 Tokenomics
   Learn about $RETRO token economics
