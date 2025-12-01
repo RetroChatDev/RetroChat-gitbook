@@ -5,7 +5,7 @@ RetroChat is a modern, decentralized social platform that combines the nostalgia
 ## Key Features
 
 - **Real-time Chat**: Public rooms and direct messaging
-- **Arcade Games**: Classic games integrated into the platform
+- **Arcade Games**: Classic games integrated into the platform (COMING SOON)
 - **Radio Streaming**: Browse and create music playlists
 - **Web3 Integration**: Solana wallet support, tipping, and airdrops
 - **User Profiles**: Customizable profiles with follow system
