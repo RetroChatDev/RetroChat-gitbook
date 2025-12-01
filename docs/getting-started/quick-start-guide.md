@@ -7,8 +7,8 @@ Get started with RetroChat in just a few minutes!
 1. Visit RetroChat and click "Sign Up"
 2. Choose your preferred sign-up method:
    - Email and password
-   - Google OAuth
-   - Solana wallet (Phantom, Solflare)
+   - Google
+   - Solana wallet (Phantom, MORE TO COME)
 3. Complete your profile setup
 
 ## Step 2: Explore the Platform
@@ -25,15 +25,17 @@ Once you're logged in, you can:
 To unlock Web3 features:
 
 1. Click on your profile
-2. Navigate to "Wallet Settings"
-3. Connect your Phantom or Solflare wallet
+2. Navigate to "Web3 Wallet"
+3. Connect your Phantom wallet
 4. Start sending and receiving tips!
 
 ## Step 4: Customize Your Profile
 
-- Upload an avatar and banner
+- Upload an avatar or choose generic
+- Generate a Username or make one of your own
 - Add a bio
-- Set your status
+- Set Social Links
+- Set Status Message. (This appears above name in user lists, etc)
 - Customize your theme preferences
 
 ## Next Steps
