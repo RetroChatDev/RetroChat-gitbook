@@ -4,7 +4,7 @@ Welcome to RetroChat! This guide will help you set up your account and start cha
 
 ## Step 1: Create Your Account
 
-1. Visit [RetroChat](https://retro-chatterbox.lovable.app) in your web browser.
+1. Visit [RetroChat](https://retrochat.io) in your web browser.
 2. Click **Sign Up** on the login screen.
 3. Enter your email address and choose a password.
 4. Verify your email if prompted.

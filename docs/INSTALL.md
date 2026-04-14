@@ -17,7 +17,7 @@ A Progressive Web App works like a native app but is installed directly from you
 
 ## Install on Android (Chrome)
 
-1. Open [RetroChat](https://retro-chatterbox.lovable.app) in **Google Chrome**.
+1. Open [RetroChat](https://retrochat.io) in **Google Chrome**.
 2. Tap the **three-dot menu** (⋮) in the top-right corner.
 3. Select **"Install app"** or **"Add to Home screen"**.
 4. Tap **Install** to confirm.
@@ -29,7 +29,7 @@ A Progressive Web App works like a native app but is installed directly from you
 
 ## Install on iPhone / iPad (Safari)
 
-1. Open [RetroChat](https://retro-chatterbox.lovable.app) in **Safari**.
+1. Open [RetroChat](https://retrochat.io) in **Safari**.
 2. Tap the **Share** button (the square with an arrow pointing up).
 3. Scroll down and tap **"Add to Home Screen"**.
 4. Tap **Add** in the top-right corner.
@@ -41,7 +41,7 @@ A Progressive Web App works like a native app but is installed directly from you
 
 ## Install on Desktop (Chrome / Edge)
 
-1. Open [RetroChat](https://retro-chatterbox.lovable.app) in **Chrome** or **Microsoft Edge**.
+1. Open [RetroChat](https://retrochat.io) in **Chrome** or **Microsoft Edge**.
 2. Look for the **install icon** in the address bar (a monitor with a download arrow).
 3. Click it and select **Install**.
 4. RetroChat will open in its own window and appear in your app launcher.

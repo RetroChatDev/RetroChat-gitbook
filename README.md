@@ -33,7 +33,7 @@ We believe the internet was better when it was personal, fun, and community-firs
 
 ## Platform Availability
 
-- **Web Browser** — Works in any modern browser at [retro-chatterbox.lovable.app](https://retro-chatterbox.lovable.app)
+- **Web Browser** — Works in any modern browser at [retrochat.io](https://retrochat.io)
 - **PWA (Progressive Web App)** — Install RetroChat on your home screen for an app-like experience
 - **Native Mobile Apps** — Coming Soon for iOS and Android
 
