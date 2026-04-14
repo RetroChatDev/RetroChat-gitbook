@@ -1,81 +1,46 @@
-![282704F3-85F4-4201-88AC-6225C7AF5B57](https://github.com/user-attachments/assets/e507b3f2-9d14-41e7-9e67-10255e232195)
+![RetroChat logo](https://github.com/user-attachments/assets/e507b3f2-9d14-41e7-9e67-10255e232195)
 
+# RetroChat — Where WEB2 and WEB3 Collide
 
-# Welcome to RetroChat
+## What Is RetroChat?
 
-### Welcome to RetroChat 🎮✨
+RetroChat is a nostalgic, community-driven social platform that blends the charm of classic internet chat rooms with the power of modern Web3 technology. Think of the best parts of early-2000s chat culture — screen names, emoticons, themed rooms — reimagined for today's decentralized world.
 
-RetroChat - Where Web2 and Web3 Collide!
+Whether you're here to chat with friends, launch a token, watch retro TV, listen to live radio, or join a community space, RetroChat has something for everyone.
 
-### What is RetroChat?
+## Our Mission
 
-RetroChat is a revolutionary social platform that combines:
+We believe the internet was better when it was personal, fun, and community-first. RetroChat brings that energy back while giving users ownership over their digital identity through blockchain integration on the Solana network.
 
-* 💬 **Real-time Chat** - Public rooms and private messaging
-* 🕹️ **Retro Arcade** - Classic games with modern Web3 integration (COMING SOON)
-* 📻 **Radio Streaming** - Curated music and Streaming
-* 💰 **Solana Integration** - Tipping, airdrops, and token rewards
-* 🎨 **Retro Aesthetic** - Nostalgic 90s design meets modern UX
+## Who Is RetroChat For?
 
-### Key Features
+- **Chat enthusiasts** who miss the golden age of internet chat rooms
+- **Web3 natives** looking for a social layer with wallet integration, tipping, and token creation
+- **Community builders** who want to create and manage their own spaces
+- **Content lovers** who enjoy curated retro TV channels and live radio stations
+- **Gamers** excited about our upcoming Retro Arcade
 
-```
-  Chat & Community
-  Join public rooms or chat privately with friends
+## Key Highlights
 
-  Arcade Games
-  Play classic games with your community
+- 🗨️ **Live Chat Rooms** — Create public or private rooms, invite friends, customize wallpapers
+- 🌐 **Communities & Spaces** — Build communities with posts, voice rooms, and live broadcasts
+- 🪙 **Token Launchpad** — Launch your own Solana token directly from the platform
+- 📺 **Retro TV** — Watch curated retro content across themed channels
+- 📻 **Live Radio** — Tune in to thousands of radio stations worldwide
+- 💸 **Tipping & Airdrops** — Send SOL tips and run airdrop campaigns
+- 🔐 **Wallet Integration** — Connect Phantom or Solflare to unlock Web3 features
+- 🎮 **Retro Arcade** — Coming Soon!
 
-  Web3 Tipping
-  Send SOL, USDC, or USDT tips instantly
+## Platform Availability
 
-  Airdrops
-  Receive token rewards and airdrops
-```
+- **Web Browser** — Works in any modern browser at [retro-chatterbox.lovable.app](https://retro-chatterbox.lovable.app)
+- **PWA (Progressive Web App)** — Install RetroChat on your home screen for an app-like experience
+- **Native Mobile Apps** — Coming Soon for iOS and Android
 
-### Quick Links
+## Stay Connected
 
-```
-  🚀 Get Started
-  Create your account and join the community
+RetroChat is actively developed and community-driven. Join a room, start a conversation, and help shape the future of social on the decentralized web.
 
-  💎 Tokenomics
-  Learn about $RETRO token economics
+---
 
-  🗺️ Roadmap
-  See what's coming next
-
-  ❓ FAQ
-  Common questions answered
-```
-
-### Technology Stack
-
-RetroChat is built with modern Web3 technologies:
-
-* ⚛️ **React + TypeScript** - Modern, type-safe frontend
-* 🎨 **Tailwind CSS** - Beautiful, responsive design
-* ⚡ **Supabase** - Real-time database and authentication
-* 🔗 **Solana** - Fast, low-cost blockchain integration
-* 🎮 **WebAssembly** - High-performance game emulation
-
-### Community
-
-Join  users in the RetroChat community NOW:
-
-* 🌐 **Website**: [RetroChat.io](https://retrochat.io/about)
-* 🐦 **Twitter**: [@RetroChatDev](https://x.com/RetroChatDev)
-* 📱 **Telegram**: [t.me/joinretrochat](https://t.me/joinretrochat)
-
-***
-
-```
-  📖 Documentation Version
-  v1.0.0 - December 2025
-
-  📅 Last Updated
-  November 30th, 2025
-```
-
-```
-```
+*RetroChat — Nostalgia meets innovation.*
