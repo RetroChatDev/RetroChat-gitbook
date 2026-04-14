@@ -37,9 +37,34 @@ We believe the internet was better when it was personal, fun, and community-firs
 - **PWA (Progressive Web App)** — Install RetroChat on your home screen for an app-like experience
 - **Native Mobile Apps** — Coming Soon for iOS and Android
 
-## Stay Connected
+## Documentation
+
+Guides and reference live in the [`docs/`](docs/) folder:
+
+- [Getting started](docs/GETTING_STARTED.md)
+- [Install](docs/INSTALL.md)
+- [Native app setup](docs/native-setup.md)
+- [Features](docs/FEATURES.md)
+- [User guides](docs/USER_GUIDES.md)
+- [Web3 integration](docs/WEB3_INTEGRATION.md)
+- [Airdrops & tipping](docs/AIRDROPS_AND_TIPPING.md)
+- [Referral system](docs/REFERRAL_SYSTEM.md)
+- [Admin & moderation](docs/ADMIN_AND_MODERATION.md)
+- [Security](docs/SECURITY.md)
+- [Legal](docs/LEGAL.md)
+- [Code of conduct](docs/CODE_OF_CONDUCT.md)
+- [Arcade emulator options](docs/ARCADE_EMULATOR_OPTIONS.md)
+- [Retro Arcade deeplink](docs/RETRO_ARCADE_DEEPLINK.md)
+
+## Stay connected
 
 RetroChat is actively developed and community-driven. Join a room, start a conversation, and help shape the future of social on the decentralized web.
+
+### RetroChat socials
+
+- **Website:** [retrochat.io](https://retrochat.io/about)
+- **X (Twitter):** [@RetroChatDev](https://x.com/RetroChatDev)
+- **Telegram:** [t.me/joinretrochat](https://t.me/joinretrochat)
 
 ---
 
