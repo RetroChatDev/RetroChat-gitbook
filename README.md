@@ -53,8 +53,6 @@ Guides and reference live in the [`docs/`](docs/) folder:
 - [Security](docs/SECURITY.md)
 - [Legal](docs/LEGAL.md)
 - [Code of conduct](docs/CODE_OF_CONDUCT.md)
-- [Arcade emulator options](docs/ARCADE_EMULATOR_OPTIONS.md)
-- [Retro Arcade deeplink](docs/RETRO_ARCADE_DEEPLINK.md)
 
 ## Stay connected
 
