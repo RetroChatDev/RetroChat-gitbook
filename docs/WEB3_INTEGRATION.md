@@ -11,7 +11,6 @@ Connect your Solana wallet to unlock the full RetroChat experience.
 ### Supported Wallets
 
 - **Phantom** — The most popular Solana wallet
-- **Solflare** — A full-featured Solana wallet
 
 ### How to Connect
 
@@ -76,14 +75,6 @@ Upload files to the decentralized web.
 
 Send SOL and tokens to other users. See [Airdrops & Tipping](./AIRDROPS_AND_TIPPING.md) for full details.
 
----
-
-## Transaction Explorer
-
-View transaction details on Solana block explorers.
-
-- **Solscan integration** — View detailed transaction and wallet information
-- **DexScreener integration** — Check token pair charts and trading data
 
 ---
 
