@@ -1,102 +1,44 @@
-# Welcome to RetroChat
+# RetroChat — Where WEB2 and WEB3 Collide
 
-Welcome to the RetroChat documentation! This comprehensive guide will help you understand and use all the features of RetroChat.
+## What Is RetroChat?
 
-## Table of Contents
+RetroChat is a nostalgic, community-driven social platform that blends the charm of classic internet chat rooms with the power of modern Web3 technology. Think of the best parts of early-2000s chat culture — screen names, emoticons, themed rooms — reimagined for today's decentralized world.
 
-### Getting Started
-- [What is RetroChat?](./getting-started/what-is-retrochat.md)
-- [Quick Start Guide](./getting-started/quick-start-guide.md)
-- [Create Your Account](./getting-started/create-your-account.md)
-- [First Steps](./getting-started/first-steps.md)
+Whether you're here to chat with friends, launch a token, watch retro TV, listen to live radio, or join a community space, RetroChat has something for everyone.
 
-### Features
-- [Overview](./features/overview.md)
-- [Chat & Messaging](./features/chat-messaging.md)
-  - Public Rooms
-  - Direct Messages
-  - File Attachments
-  - Emoticons
-- [Arcade Games](./features/arcade-games.md)
-  - Available Games
-  - How to Play
-- [Radio Streaming](./features/radio-streaming.md)
-  - Browse Stations
-  - Create Playlists
-- [User Profiles](./features/user-profiles.md)
-  - Customization
-  - Follow System
+## Our Mission
 
-### Web3 Integration
-- [Overview](./web3-integration/overview.md)
-- [Solana Wallet Setup](./web3-integration/solana-wallet-setup.md)
-  - Connect Phantom
-  - Connect Solflare
-- [Tipping System](./web3-integration/tipping-system.md)
-  - How to Send Tips
-  - Supported Tokens
-- [Airdrops](./web3-integration/airdrops.md)
-  - Receiving Airdrops
-  - Airdrop History
-- [Token Integration](./web3-integration/token-integration.md)
+We believe the internet was better when it was personal, fun, and community-first. RetroChat brings that energy back while giving users ownership over their digital identity through blockchain integration on the Solana network.
 
-### Tokenomics
-- [Overview](./tokenomics/overview.md)
-- [Token Distribution](./tokenomics/token-distribution.md)
-- [Token Utility](./tokenomics/token-utility.md)
-- [Economics Model](./tokenomics/economics-model.md)
-- [Staking (Coming Soon)](./tokenomics/staking.md)
+## Who Is RetroChat For?
 
-### Roadmap
-- [Vision](./roadmap/vision.md)
-- [Q1 2026](./roadmap/q1-2026.md)
-- [Q2 2026](./roadmap/q2-2026.md)
-- [Future Plans](./roadmap/future-plans.md)
+- **Chat enthusiasts** who miss the golden age of internet chat rooms
+- **Web3 natives** looking for a social layer with wallet integration, tipping, and token creation
+- **Community builders** who want to create and manage their own spaces
+- **Content lovers** who enjoy curated retro TV channels and live radio stations
+- **Gamers** excited about our upcoming Retro Arcade
 
-### User Guides
-- [Account Management](./user-guides/account-management.md)
-  - Profile Settings
-  - Privacy & Security
-  - Password Reset
-- [Room Creation & Management](./user-guides/room-creation-management.md)
-  - Create a Room
-  - Room Settings
-  - Invite Users
-- [Notifications](./user-guides/notifications.md)
-- [Referral System](./user-guides/referral-system.md)
-- [Bug Reports](./user-guides/bug-reports.md)
-- [Feature Requests](./user-guides/feature-requests.md)
+## Key Highlights
 
-### Admin & Moderation
-- [Admin Overview](./admin-moderation/admin-overview.md)
-- [User Management](./admin-moderation/user-management.md)
-- [Room Moderation](./admin-moderation/room-moderation.md)
-- [Airdrop Management](./admin-moderation/airdrop-management.md)
-  - Creating Airdrops
-  - Selecting Recipients
-  - Execution & Tracking
-- [Analytics Dashboard](./admin-moderation/analytics-dashboard.md)
-- [Maintenance Mode](./admin-moderation/maintenance-mode.md)
+- 🗨️ **Live Chat Rooms** — Create public or private rooms, invite friends, customize wallpapers
+- 🌐 **Communities & Spaces** — Build communities with posts, voice rooms, and live broadcasts
+- 🪙 **Token Launchpad** — Launch your own Solana token directly from the platform
+- 📺 **Retro TV** — Watch curated retro content across themed channels
+- 📻 **Live Radio** — Tune in to thousands of radio stations worldwide
+- 💸 **Tipping & Airdrops** — Send SOL tips and run airdrop campaigns
+- 🔐 **Wallet Integration** — Connect Phantom or Solflare to unlock Web3 features
+- 🎮 **Retro Arcade** — Coming Soon!
 
-### API Reference
-- [Introduction](./api-reference/introduction.md)
-- [Authentication](./api-reference/authentication.md)
-- [REST Endpoints](./api-reference/rest-endpoints.md)
-- [Realtime Subscriptions](./api-reference/realtime-subscriptions.md)
-- [Edge Functions](./api-reference/edge-functions.md)
+## Platform Availability
 
-### Community
-- [Code of Conduct](./community/code-of-conduct.md)
-- [Contributing](./community/contributing.md)
-- [Community Guidelines](./community/community-guidelines.md)
-- [Support](./community/support.md)
-- [FAQ](./community/faq.md)
+- **Web Browser** — Works in any modern browser at [retro-chatterbox.lovable.app](https://retro-chatterbox.lovable.app)
+- **PWA (Progressive Web App)** — Install RetroChat on your home screen for an app-like experience
+- **Native Mobile Apps** — Coming Soon for iOS and Android
 
-### Resources
-- [Changelog](./resources/changelog.md)
-- [Security](./resources/security.md)
-- [Privacy Policy](./resources/privacy-policy.md)
-- [Terms of Service](./resources/terms-of-service.md)
-- [Press Kit](./resources/press-kit.md)
-- [Brand Guidelines](./resources/brand-guidelines.md)
+## Stay Connected
 
+RetroChat is actively developed and community-driven. Join a room, start a conversation, and help shape the future of social on the decentralized web.
+
+---
+
+*RetroChat — Nostalgia meets innovation.*
