@@ -15,7 +15,8 @@ Articles are grouped by category, for example:
 - Getting started and platform basics
 - Wallets and transactions
 - Communities and live
-- Token Studio and DeFi concepts
+- Token Studio and DeFi concepts (including **The 5% creator fee lock**)
+- Tools and launchpads (including **ansem.io and the z500 index**)
 - Safety and scam awareness
 - Glossary-style explainers
 

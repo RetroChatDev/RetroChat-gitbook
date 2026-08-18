@@ -44,7 +44,24 @@ Recipients receive an in-app notification when their tokens land.
 - Start with a small test batch when using a new recipient list.
 - Airdrops are on-chain and irreversible — double-check the recipient list.
 
+## z500 / $ANSEM holder airdrops
+
+If your linked wallet holds **$ANSEM** (typically 100+ tokens for snapshot eligibility; the live threshold is shown in the wallet card), RetroChat can surface:
+
+- Eligibility and an **estimated** z500 airdrop exposure on the Wallet and Token Studio portfolio cards (equal-share estimate vs recent distributions — not a guaranteed payout).
+- An in-app **Unclaimed z500 airdrop** reminder when ansem.io has open claims.
+- **Claim on ansem.io** links. Claims are processed on ansem.io, not inside RetroChat.
+
+These are third-party distributions. Verify the $ANSEM mint before buying or claiming, and treat Gold/Diamond/z500 rank as attention, not an audit.
+
 ## Supported wallets
 
 - **RetroChat in-app wallet** (biometric or passphrase approval).
 - **Phantom** on desktop, mobile, and inside the Phantom in-app browser.
+
+## Related guides
+
+- [Wallet Guide](WALLET_GUIDE.md)
+- [Token Studio](TOKEN_STUDIO.md)
+- [Learn Center](LEARN_CENTER.md)
+- [Notifications](NOTIFICATIONS.md)

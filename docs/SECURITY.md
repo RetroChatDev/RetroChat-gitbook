@@ -7,10 +7,12 @@ RetroChat takes platform security seriously. Here's how we protect our users and
 ## Authentication
 
 - **Email-based authentication** — Secure sign-up and login powered by Supabase Auth.
+- **Apple and Google OAuth** — Continue with Apple or Google; the native apps complete the provider login in the system browser.
 - **Password security** — Passwords are hashed and never stored in plain text.
 - **Password reset** — Secure email-based password recovery flow.
 - **Session management** — Sessions are securely managed with automatic token refresh.
 - **Wallet sign-in** — Phantom or in-app wallet sign a free off-chain message; no funds move during login.
+- **X (Twitter) OAuth** — Optional social sign-in and handle linking.
 
 ---
 
@@ -59,6 +61,10 @@ RetroChat provides multiple layers of content moderation:
 - In-app wallets keep key material on-device and require biometric or passphrase approval for signing.
 - Manual trades and transfers require explicit wallet approval.
 - Your primary wallet funds remain under your control; RetroChat does not custody them.
+
+### Wallet Relay
+
+Optional [Wallet Relay](WALLET_GUIDE.md) pairs a Chromium extension with your RetroChat signer. Pairing does not authorize a transaction. You review each dApp origin and action. Encrypted request envelopes may transit RetroChat infrastructure; private keys never do. Install only the official [Chrome Web Store listing](https://chromewebstore.google.com/detail/lcikpcjmmijbpmpadpdjfncpijldpacc) and revoke pairings from **Browser Wallet Access** if a device is lost.
 
 ### Opt-in auto buy/burn executor
 

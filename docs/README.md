@@ -6,7 +6,7 @@ Welcome to the RetroChat consumer documentation. These guides cover every featur
 
 - [Getting Started](GETTING_STARTED.md) — create an account and take your first tour.
 - [Install RetroChat](INSTALL.md) — add RetroChat to your phone or desktop.
-- [Authentication](AUTHENTICATION.md) — email, wallet, and X sign-in.
+- [Authentication](AUTHENTICATION.md) — email, Apple, Google, wallet, and X sign-in.
 
 ## Everyday use
 

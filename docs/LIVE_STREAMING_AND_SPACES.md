@@ -4,7 +4,7 @@ RetroChat supports live audio and video inside communities.
 
 ## Community Spaces (audio)
 
-Spaces are audio-only rooms hosted inside a community.
+Spaces are RetroChat's own audio-only rooms hosted inside a community.
 
 - **Start a Space** from a community page. Set a title and go live.
 - Listeners join in one tap. Tap **Raise Hand** to request the mic; hosts approve or decline.
