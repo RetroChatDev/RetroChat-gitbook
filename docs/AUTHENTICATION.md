@@ -1,6 +1,6 @@
 # Authentication
 
-RetroChat offers three ways to sign in. You can link more than one to the same account after your first sign-in.
+RetroChat offers several ways to sign in. You can link more than one to the same account after your first sign-in.
 
 ## Email and password
 
@@ -11,6 +11,12 @@ RetroChat offers three ways to sign in. You can link more than one to the same a
 5. Set a screen name and avatar to finish onboarding.
 
 Use **Forgot password** on the sign-in screen to reset your password by email.
+
+## Apple and Google
+
+On the sign-in and sign-up screens, choose **Continue with Apple** or **Continue with Google**. RetroChat uses the same OAuth flow on web, PWA, and the native apps (the native apps open the system browser to complete the provider login).
+
+After you approve access, RetroChat creates or links your account. Age attestation still applies on first use.
 
 ## Wallet sign-in (Solana)
 

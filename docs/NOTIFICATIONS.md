@@ -10,6 +10,7 @@ Tap the bell icon to open the notification inbox. Notifications are grouped by t
 - Likes and pins on your posts.
 - Tips received.
 - Community events (new post from a community you follow, going live, etc.).
+- z500 / $ANSEM holder airdrop reminders when ansem.io has unclaimed distributions.
 - System messages from RetroChat.
 
 ## Push notifications
@@ -37,4 +38,5 @@ Mute that room or community instead of turning off all pushes.
 - [Install RetroChat](INSTALL.md)
 - [Chat Rooms](CHAT_ROOMS.md)
 - [Communities & Feed](COMMUNITIES_AND_FEED.md)
+- [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)
 - [Status Page](STATUS_PAGE.md)

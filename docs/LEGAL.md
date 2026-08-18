@@ -20,6 +20,7 @@ By accessing or using RetroChat (“the Service”), you agree to be bound by th
 - **Wallet Relay (Browser Wallet Access)** is an optional feature that pairs a Chromium extension with your RetroChat signer so compatible dApps can request connections and signatures. Pairing does not authorize a transaction; you review and approve each request. You may revoke installations anytime. Encrypted payloads may be temporarily relayed through RetroChat infrastructure; you remain responsible for origins and actions you approve. Official listing: [Chrome Web Store](https://chromewebstore.google.com/detail/lcikpcjmmijbpmpadpdjfncpijldpacc).
 - **Referral** attribution (codes tying referrers to referred users), conversion records, timestamps, and safeguards against abuse reside in RetroChat-managed databases for program integrity—**gaming or fraud may void eligibility**.
 - **On-chain addresses and transactions** are **public by design** beyond RetroChat’s control.
+- **Token Studio launches** lock **5% of pump.fun creator fees** to RetroChat; you keep **95%**. That split is permanent on-chain and is not an extra per-trade fee charged inside the app. See [Token Studio](TOKEN_STUDIO.md) and the in-app Learn article **The 5% creator fee lock**.
 - **Push notifications**, when enabled on supported platforms, rely on vendors processing **push tokens/device identifiers**.
 - Optional **digital asset disclosures** (“meme/utility” framing, volatility, irreversibility on-chain operations, no fiduciary role) accompany in-app integrations.
 
@@ -45,7 +46,7 @@ By accessing or using RetroChat (“the Service”), you agree to be bound by th
 
 - RetroChat is **not** a regulated financial intermediary, brokerage, fiduciary, bank, escrow, staking operator on your behalf, tax advisor.
 - Transactions confirmed on Solana/third-party explorers are irrevocable contractual facts between you and decentralized counterparties—we cannot reverse erroneous sends.
-- **Third-party wallets, RPC relays, explorers, bridging custodians, DApps** remain entirely **subject to THEIR own terms/licensing** notwithstanding deep links surfaced.
+- **Third-party wallets, RPC relays, explorers, bridging custodians, DApps, and listing sites (including ansem.io / z500)** remain entirely **subject to THEIR own terms/licensing** notwithstanding deep links surfaced.
 
 ### Disclaimer & Liability Cap
 
@@ -57,7 +58,7 @@ We may materially amend Terms (**current version identifier `2.1`** in applicati
 
 Contact: Support@retrochat.io
 
-_Last reviewed / sync target: July 20, 2026_
+_Last reviewed / sync target: August 18, 2026_
 
 ---
 
@@ -65,7 +66,7 @@ _Last reviewed / sync target: July 20, 2026_
 
 ### Information We Collect (high level)
 
-- **Account identifiers:** email/username + auth-backend artifacts.
+- **Account identifiers:** email/username + OAuth provider identities (Apple, Google, X) when used + auth-backend artifacts.
 - **Terms acceptance telemetry:** affirmative acknowledgements optionally including version strings & timestamps (**no mandated date-of-birth collection** relying solely upon declared eligibility).
 - **Profile optional fields**, **chat content** surfaced to deliberate audiences (community rooms/direct threads), moderation safety metadata when reports occur.
 - **Wallet public linkage** absent secret material or seeds.
@@ -101,7 +102,7 @@ Hosting may cross borders—use implies awareness where lawful bases exist.
 
 Third-party integrations (Phantom, Capacitor runtimes, Wallet Relay Chromium extension hosts, dApps you connect via Relay, etc.) abide their policies.
 
-_Last reviewed / sync target: July 20, 2026_
+_Last reviewed / sync target: August 18, 2026_
 
 ---
 

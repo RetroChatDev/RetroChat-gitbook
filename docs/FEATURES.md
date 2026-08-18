@@ -65,6 +65,8 @@ See [Wallet Guide](WALLET_GUIDE.md).
 - Phantom wallet connect, including inside the Phantom in-app browser.
 - Buy crypto with card via Stripe on-ramp (regional availability).
 - DeFi position viewer, NFT viewer, price alerts, and rent-reclaim tool.
+- Optional **Wallet Relay** Chrome extension for signing dApp requests from desktop browsers.
+- **$ANSEM** holder card with estimated z500 airdrop exposure and claim links.
 
 ## Tipping & Airdrops
 
@@ -73,14 +75,18 @@ See [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md).
 - Tip any user in SOL or supported SPL tokens.
 - Global Tip Leaderboard on profiles (top tippers and most tipped).
 - Community-owner airdrop campaigns with delivery notifications.
+- z500 / $ANSEM holder airdrop reminders with claim links to ansem.io.
 
 ## Token Studio
 
 See [Token Studio](TOKEN_STUDIO.md).
 
 - Launch tokens via the public pump.fun protocol, browse the gallery, view live charts and trades, and use manual buy/burn tools.
+- Explore includes trending metas and a read-only **z500** index (ansem.io listing layer).
+- Token Studio launches lock **5%** of pump.fun creator fees to RetroChat; you keep **95%**.
 - Opt-in **auto buy/burn**: claim creator fees → buy the same token → burn on a schedule (dedicated executor wallet).
 - Token locking, fee-sharing setup, creator analytics, and "My Launches."
+- After launch: **Register on z500** / **View on z500** deep-links (listing is a separate step on ansem.io).
 
 ## Referrals
 
@@ -92,7 +98,7 @@ See [Referral System](REFERRAL_SYSTEM.md).
 
 See [Notifications](NOTIFICATIONS.md).
 
-- In-app inbox for mentions, replies, tips, and community activity.
+- In-app inbox for mentions, replies, tips, community activity, and z500 airdrop reminders.
 - Push notification registration and per-category preferences on supported platforms.
 
 ## Moderation & Safety
@@ -108,7 +114,7 @@ See [Moderation & Safety](MODERATION_AND_SAFETY.md).
 
 See [Authentication](AUTHENTICATION.md).
 
-- Email/password, wallet sign-in (Phantom or in-app wallet), and X (Twitter) OAuth.
+- Email/password, **Apple**, **Google**, wallet sign-in (Phantom or in-app wallet), and X (Twitter) OAuth.
 - Password reset and account deletion.
 - Cross-device wallet approval pairing.
 
@@ -122,7 +128,7 @@ See [Install RetroChat](INSTALL.md).
 
 ## Learn, feature requests & status
 
-- [Learn Center](LEARN_CENTER.md): searchable help articles with community contributions.
+- [Learn Center](LEARN_CENTER.md): searchable help articles with community contributions, including explainers for the 5% creator-fee lock and the z500 index.
 - [Feature Requests & Bug Reports](FEATURE_REQUESTS_AND_BUGS.md): submit ideas, vote, and file bugs.
 - [Status Page](STATUS_PAGE.md): live service health.
 

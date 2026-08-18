@@ -23,7 +23,7 @@ For private conversations, create a **private room** and invite only the people 
 - Send text, emoticons, GIFs (via GIPHY), images, files, or a live camera capture.
 - Long-press or tap the reply arrow on any message to reply inline.
 - Type `@` to mention a user; they get a notification.
-- Paste a link and RetroChat auto-generates a preview. Paste a Solana contract address and a token preview appears.
+- Paste a link and RetroChat auto-generates a preview. Paste a Solana contract address and a token preview appears, including outbound **z500 / Gold / Diamond** badges when shown (labels are not an audit).
 - Tap a user's avatar to open their profile or tip them.
 
 You can keep [Live Radio](LIVE_RADIO.md) playing in the background while you chat.

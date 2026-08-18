@@ -23,11 +23,11 @@ We believe the internet was better when it was personal, fun, and community-firs
 
 - 🗨️ **Live Chat Rooms** — Create public or private rooms, invite friends, customize wallpapers
 - 🌐 **Communities & Spaces** — Build communities with posts, voice rooms, and live broadcasts
-- 🪙 **Token Launchpad** — Launch your own Solana token directly from the platform
+- 🪙 **Token Launchpad** — Launch your own Solana token on pump.fun from Token Studio (5% creator-fee lock; optional z500 listing)
 - 📺 **Retro TV** — Watch curated retro content across themed channels
 - 📻 **Live Radio** — Tune in to thousands of radio stations worldwide
-- 💸 **Tipping & Airdrops** — Send SOL tips and run airdrop campaigns
-- 🔐 **Wallet Integration** — Connect Phantom or use the in-app wallet to unlock Web3 features
+- 💸 **Tipping & Airdrops** — Send SOL tips, run community airdrops, and track $ANSEM / z500 claims
+- 🔐 **Wallet Integration** — Connect Phantom, use the in-app wallet, or pair Wallet Relay in Chrome
 
 ## Platform Availability
 
@@ -54,6 +54,7 @@ Guides and reference live in the [`docs/`](docs/) folder. Start with the [docs i
 - [Profiles & following](docs/PROFILES_AND_FOLLOWING.md)
 - [Notifications](docs/NOTIFICATIONS.md)
 - [Live streaming & Spaces](docs/LIVE_STREAMING_AND_SPACES.md)
+- [Live Radio](docs/LIVE_RADIO.md)
 - [Retro TV](docs/RETRO_TV.md)
 - [In-app Browser](docs/IN_APP_BROWSER.md)
 - [Learn Center](docs/LEARN_CENTER.md)
@@ -83,6 +84,7 @@ RetroChat is actively developed and community-driven. Join a room, start a conve
 - **Website:** [retrochat.io](https://retrochat.io/about)
 - **X (Twitter):** [@RetroChatDev](https://x.com/RetroChatDev)
 - **Telegram:** [t.me/joinretrochat](https://t.me/joinretrochat)
+- **TikTok:** [@retrochat.officia](https://www.tiktok.com/@retrochat.officia)
 
 ---
 

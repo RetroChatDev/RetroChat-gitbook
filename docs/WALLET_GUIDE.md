@@ -24,6 +24,7 @@ The wallet home shows:
 - SPL token holdings with price and 24h change.
 - NFT collection viewer.
 - DeFi positions (staked, lent, or LP positions detected on-chain).
+- If you hold **$ANSEM**, a holder card with snapshot eligibility, estimated z500 airdrop exposure, and a claim link to ansem.io. Estimates are not a guaranteed allocation.
 
 ## Sending, receiving, and swapping
 
@@ -47,6 +48,17 @@ Solana charges a small "rent" deposit for each token account. The **Reclaim Rent
 ## Transaction history
 
 Every send, receive, swap, tip, trade, and airdrop is listed under **History**. Tap any entry to view it on a public block explorer.
+
+## Browser Wallet Access (Wallet Relay)
+
+Optional **Wallet Relay** lets a Chromium extension talk to your RetroChat signer so compatible Solana dApps can request connections and signatures from a desktop browser.
+
+1. Install the official extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/lcikpcjmmijbpmpadpdjfncpijldpacc).
+2. Pair from the extension popup (pairing does **not** approve a transaction).
+3. When a dApp asks to connect or sign, review the origin and action, then approve or reject on your RetroChat signer.
+4. Manage paired browsers from the account menu → **Browser Wallet Access**. Rename installations or revoke them anytime.
+
+Private keys stay on your device. Encrypted payloads may be temporarily relayed through RetroChat infrastructure. Only install the official listing.
 
 ## Security
 
@@ -72,3 +84,5 @@ Common causes: insufficient SOL for fees, slippage too tight, or network congest
 - [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)
 - [Token Studio](TOKEN_STUDIO.md)
 - [Learn Center](LEARN_CENTER.md)
+- [Legal](LEGAL.md)
+- [Security](SECURITY.md)

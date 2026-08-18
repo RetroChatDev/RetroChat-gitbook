@@ -11,9 +11,10 @@ See [Install RetroChat](INSTALL.md) for full instructions.
 
 ## 2. Sign in or sign up
 
-Choose one of three sign-in methods:
+Choose a sign-in method:
 
 - **Email & password** — enter an email and password, then confirm you are 16+.
+- **Apple** or **Google** — continue with your Apple or Google account.
 - **Wallet** — connect Phantom, or let RetroChat create an in-app wallet for you (18+ attestation for wallet generation).
 - **X (Twitter)** — sign in with your X account.
 
@@ -56,8 +57,8 @@ See the [Wallet Guide](WALLET_GUIDE.md).
 
 ## Need help?
 
-- [Learn Center](LEARN_CENTER.md) — searchable help articles.
-- [Token Studio](TOKEN_STUDIO.md) — explore, launch, and (optionally) auto buy/burn.
+- [Learn Center](LEARN_CENTER.md) — searchable help articles (including the 5% creator-fee lock and z500 explainers).
+- [Token Studio](TOKEN_STUDIO.md) — explore, launch, list on z500, and (optionally) auto buy/burn.
 - [Live Radio](LIVE_RADIO.md) — listen while you chat.
 - [Feature Requests & Bug Reports](FEATURE_REQUESTS_AND_BUGS.md).
 - [Status Page](STATUS_PAGE.md).
